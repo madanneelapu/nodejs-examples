@@ -1,0 +1,17 @@
+{
+  "name": "032-my-node-app",
+  "version": "1.0.0",
+  "description": "032 My Node App",
+  "main": "032_app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.20.1"
+  },
+  "devDependencies": {
+    "jasmine-node": "^1.14.5"
+  }
+}
