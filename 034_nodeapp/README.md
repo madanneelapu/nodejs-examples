@@ -1,5 +1,4 @@
 # Express in NodeJS - Static Files and Middleware
------------------------------------------------
 
 Middleware is the code that sits between two layers of software.
 
